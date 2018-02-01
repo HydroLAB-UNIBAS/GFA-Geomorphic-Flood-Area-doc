@@ -1,2 +1,2 @@
 # GFA-Geomorphic-Flood-Area-doc
-banchmark input data for testing GFA-tool in both ASCII.txt and Geotiff formats
+banchmark data set for testing and exploring  GFA-tool in both ASCII.txt and Geotiff formats
